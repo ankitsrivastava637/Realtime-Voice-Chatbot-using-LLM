@@ -1,4 +1,4 @@
-# Quick Voice bot demo
+# Quick Voice Real time chatbot using LLM - demo
 
 # This is a Demo showing a bot that uses Text-To-Speech, Speech-To-Text, and a language model using GROQ, Deepgram, Langchain, to have voice a conversation with a user in real time.
 
