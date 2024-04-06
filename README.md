@@ -10,7 +10,7 @@ This demo utilizes streaming for sst and tts to speed things up.
 The files in `building_blocks` are the isolated components if you'd like to inspect them for each task like speech to text , text to speech with deepgram.
 
 You can also modify the system prompt, to enhace the chatbot's response to a more controlled domain specific use case.
-# You can run the proect after installing required packages. Make sure to provide Deepgram API key and Groq API key to run the project.
+# You can run the proect after installing required packages. Make sure to provide Deepgram API key and Groq API key in QuickAgent.py to run the project.
 
 ```
 git clone https://github.com/gkamradt/QuickAgent.git
