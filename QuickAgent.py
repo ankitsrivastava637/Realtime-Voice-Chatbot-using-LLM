@@ -73,7 +73,7 @@ class LanguageModelProcessor:
 
 class TextToSpeech:
     # Set your Deepgram API Key and desired voice model
-    DEEPGRAM_API_KEY = "33f1a3067bc861ddfae579431f8b6442a0f7f643"
+    DEEPGRAM_API_KEY = ""
     DG_API_KEY = os.getenv("DEEPGRAM_API_KEY")
     MODEL_NAME = "aura-helios-en"  # Example model name, change as needed
 
